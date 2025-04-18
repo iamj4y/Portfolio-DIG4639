@@ -1,6 +1,28 @@
-# Getting Started with Create React App
+# Portfolio Assignment for DIG4639
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The gist of this whole project was to create a portfolio site that reflects the topics that we were exposed to throughout this semester (Spring 2025). This portfolio is complete with the following:
+
+### Home Page
+
+The landing page. That's all.
+
+### About Page
+
+Information about me, my skills, and my interests.
+
+### Projects Page
+
+A showcase of my projects for this course.
+
+### Contact Page
+
+A page with contact information. The email form doesn't actually work; it just has basic validation capabilities.
+
+## Setup Information
+
+Idk why anyone would want to set this up locally, but if you already have installed it, navigate the file in your terminal and type in `npm install`. Type in `npm start` in the terminal to run it on your device.
+
+
 
 ## Available Scripts
 
