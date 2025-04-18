@@ -36,3 +36,106 @@
     transform: rotate(360deg);
   }
 }
+
+.jumbotron {
+  background-image: url("./Artboard\ 1555.png");
+  background-position-y: 65%;
+  height: 400px;
+  background-size: 100%;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+}
+
+.navbar {
+  background-color: #eeeeff;
+}
+
+.navbar-nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #6663ff;
+}
+
+.navbar-nav a:hover {
+  background-color: #2a296d;
+}
+
+.navbtn {
+  background-color: #6663ff;
+  margin-left: 20px;
+}
+
+.navbtn:hover {
+  background-color: #2a296d;
+}
+
+.sections {
+  margin: 10px;
+}
+
+.pageTitle {
+  color: #2a296d;
+  font-size: 75px;
+  font-weight: 700;
+  margin-top: 70px;
+}
+
+.sectionTitle {
+  font-weight: 700;
+}
+
+.bio {
+  width: 700px;
+  margin: 0px auto;
+}
+
+.bio p {
+  text-align: left;
+}
+
+.header {
+  margin: 0px auto;
+  text-align: center;
+  background-color: #7c7cb2;
+}
+
+.logo {
+  margin: 0px 50px;
+}
+
+.footer {
+  background-color: #eeeeff;
+  bottom: 0;
+  margin-top: auto;
+}
+
+#page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.projectDisplay {
+  width: 600px
+}
+
+textarea {
+  height: 200px;
+  width: 450px;
+}
+
+#submitBtn {
+  background-color: #6663ff;
+  color: white;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+#submitBtn:hover {
+  background-color: #2a296d;
+}
